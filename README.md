@@ -11,6 +11,7 @@ https://localhost:7005/weatherforecast
 API Details
 The API includes a single controller action:
 GET GetStories, which accepts a parameter best={int}.
+https://localhost:7005/api/stories?best=15
 
 - The "best" parameter specifies the number of stories the API should return.
 - If the "best" parameter is not provided, the API returns 10 stories by default.
