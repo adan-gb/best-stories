@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|c:\\users\\adn_g\\onedrive\\documentos\\projects\\.net\\devcodtest\\devcodingtest-storiesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|c:\\users\\adn_g\\onedrive\\documentos\\projects\\.net\\devcodtest\\devcodingtest-storiesapi\\constants\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|solutionrelative:constants\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|c:\\users\\adn_g\\onedrive\\documentos\\projects\\.net\\devcodtest\\devcodingtest-storiesapi\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|solutionrelative:controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|c:\\users\\adn_g\\onedrive\\documentos\\projects\\.net\\devcodtest\\devcodingtest-storiesapi\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|solutionrelative:extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|c:\\users\\adn_g\\onedrive\\documentos\\projects\\.net\\devcodtest\\devcodingtest-storiesapi\\models\\datatransferobjects\\storydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|solutionrelative:models\\datatransferobjects\\storydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|c:\\users\\adn_g\\onedrive\\documentos\\projects\\.net\\devcodtest\\devcodingtest-storiesapi\\models\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|solutionrelative:models\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|c:\\users\\adn_g\\onedrive\\documentos\\projects\\.net\\devcodtest\\devcodingtest-storiesapi\\models\\exceptions\\storiesnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|solutionrelative:models\\exceptions\\storiesnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|c:\\users\\adn_g\\onedrive\\documentos\\projects\\.net\\devcodtest\\devcodingtest-storiesapi\\models\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|solutionrelative:models\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|c:\\users\\adn_g\\onedrive\\documentos\\projects\\.net\\devcodtest\\devcodingtest-storiesapi\\models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|solutionrelative:models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|c:\\users\\adn_g\\onedrive\\documentos\\projects\\.net\\devcodtest\\devcodingtest-storiesapi\\services\\implementations\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|solutionrelative:services\\implementations\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|c:\\users\\adn_g\\onedrive\\documentos\\projects\\.net\\devcodtest\\devcodingtest-storiesapi\\services\\implementations\\storyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|solutionrelative:services\\implementations\\storyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|c:\\users\\adn_g\\onedrive\\documentos\\projects\\.net\\devcodtest\\devcodingtest-storiesapi\\services\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|solutionrelative:services\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|c:\\users\\adn_g\\onedrive\\documentos\\projects\\.net\\devcodtest\\devcodingtest-storiesapi\\services\\istoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|solutionrelative:services\\istoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|c:\\users\\adn_g\\onedrive\\documentos\\projects\\.net\\devcodtest\\devcodingtest-storiesapi\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACA69E2-8E83-4B7A-9D18-B1683550FB53}|DevCodingTest-StoriesAPI.csproj|solutionrelative:mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T01:39:34.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Models\\DataTransferObjects\\StoryDto.cs",
+              "RelativeDocumentMoniker": "Models\\DataTransferObjects\\StoryDto.cs",
+              "ToolTip": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Models\\DataTransferObjects\\StoryDto.cs",
+              "RelativeToolTip": "Models\\DataTransferObjects\\StoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:38:45.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Models\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorDetails.cs",
+              "ToolTip": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Models\\ErrorDetails.cs",
+              "RelativeToolTip": "Models\\ErrorDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:38:29.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Models\\Story.cs",
+              "RelativeDocumentMoniker": "Models\\Story.cs",
+              "ToolTip": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Models\\Story.cs",
+              "RelativeToolTip": "Models\\Story.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:38:19.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Services\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\IServiceManager.cs",
+              "ToolTip": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Services\\IServiceManager.cs",
+              "RelativeToolTip": "Services\\IServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:13:17.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoryService.cs",
+              "DocumentMoniker": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Services\\Implementations\\StoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\StoryService.cs",
+              "ToolTip": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Services\\Implementations\\StoryService.cs",
+              "RelativeToolTip": "Services\\Implementations\\StoryService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAywGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:48:24.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStoryService.cs",
+              "DocumentMoniker": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Services\\IStoryService.cs",
+              "RelativeDocumentMoniker": "Services\\IStoryService.cs",
+              "ToolTip": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Services\\IStoryService.cs",
+              "RelativeToolTip": "Services\\IStoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:13:17.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StoriesNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Models\\Exceptions\\StoriesNotFoundException.cs",
+              "RelativeDocumentMoniker": "Models\\Exceptions\\StoriesNotFoundException.cs",
+              "ToolTip": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Models\\Exceptions\\StoriesNotFoundException.cs",
+              "RelativeToolTip": "Models\\Exceptions\\StoriesNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:13:08.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:04:25.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoryController.cs",
+              "DocumentMoniker": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Controllers\\StoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StoryController.cs",
+              "ToolTip": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Controllers\\StoryController.cs",
+              "RelativeToolTip": "Controllers\\StoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:30:32.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Constants\\Constants.cs",
+              "RelativeDocumentMoniker": "Constants\\Constants.cs",
+              "ToolTip": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Constants\\Constants.cs",
+              "RelativeToolTip": "Constants\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:48:21.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MappingProfile.cs",
+              "ToolTip": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\MappingProfile.cs",
+              "RelativeToolTip": "MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:37:40.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Models\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Models\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Models\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Models\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:09:21.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Services\\Implementations\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\adn_g\\OneDrive\\Documentos\\Projects\\.NET\\DevCodTest\\DevCodingTest-StoriesAPI\\Services\\Implementations\\ServiceManager.cs",
+              "RelativeToolTip": "Services\\Implementations\\ServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:13:18.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
