@@ -17,7 +17,8 @@ namespace DevCodingTest_StoriesAPI.Controllers
         [HttpGet]
         public async Task<IActionResult> GetStories([FromQuery] int best)
         {
-            var stories = await _service.StoryService.GetStories(best);
+            var _best = best > 0 ? best : 10;
+            var stories = await _service.StoryService.GetStories(_best);
 
             return Ok(stories);
         }
